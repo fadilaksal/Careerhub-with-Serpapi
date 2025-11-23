@@ -1,0 +1,299 @@
+{"level":"info","port":"8080","time":"2025-11-23T08:52:00+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T08:52:00+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T08:52:00+07:00","message":"API configuration"}
+{"level":"info","query":"Software Engineer","location":"Jakarta","ip":"::1","time":"2025-11-23T08:52:17+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"Software Engineer","location":"Jakarta","time":"2025-11-23T08:52:17+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"Software Engineer","location":"Jakarta","time":"2025-11-23T08:52:17+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T08:52:25+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":10,"time":"2025-11-23T08:52:25+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":10,"time":"2025-11-23T08:52:25+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":10,"query":"Software Engineer","location":"Jakarta","time":"2025-11-23T08:52:25+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
+{"level":"info","query":"DevOps","location":"Bali","ip":"::1","time":"2025-11-23T08:52:56+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"DevOps","location":"Bali","time":"2025-11-23T08:52:56+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"DevOps","location":"Bali","time":"2025-11-23T08:52:56+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:53:01+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:53:01+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"Developer","location":"Jakarta","ip":"::1","time":"2025-11-23T08:53:16+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"Developer","location":"Jakarta","time":"2025-11-23T08:53:16+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"Developer","location":"Jakarta","time":"2025-11-23T08:53:16+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T08:53:20+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":10,"time":"2025-11-23T08:53:20+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":10,"time":"2025-11-23T08:53:20+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":10,"query":"Developer","location":"Jakarta","time":"2025-11-23T08:53:20+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
+{"level":"info","port":"8080","time":"2025-11-23T08:54:54+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T08:54:54+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T08:54:54+07:00","message":"API configuration"}
+{"level":"fatal","error":"listen tcp :8080: bind: address already in use","time":"2025-11-23T08:54:54+07:00","message":"Failed to start server"}
+{"level":"info","port":"8080","time":"2025-11-23T08:55:15+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T08:55:15+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T08:55:15+07:00","message":"API configuration"}
+{"level":"info","query":"React Developer","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:55:18+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"React Developer","location":"Indonesia","time":"2025-11-23T08:55:18+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"React Developer","location":"Indonesia","time":"2025-11-23T08:55:18+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:55:21+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:55:21+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"React Developer","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:55:22+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"React Developer","location":"Indonesia","time":"2025-11-23T08:55:22+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"React Developer","location":"Indonesia","time":"2025-11-23T08:55:22+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:55:22+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:55:22+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:55:45+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:55:45+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:55:45+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:55:48+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:55:48+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:55:49+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:55:49+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:55:49+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:55:49+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:55:49+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"web developer","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:56:01+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"web developer","location":"Indonesia","time":"2025-11-23T08:56:01+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"web developer","location":"Indonesia","time":"2025-11-23T08:56:01+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T08:56:09+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":10,"time":"2025-11-23T08:56:09+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":10,"time":"2025-11-23T08:56:09+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":10,"query":"web developer","location":"Indonesia","time":"2025-11-23T08:56:09+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:56:20+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:56:20+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:56:20+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:56:21+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:56:21+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T08:56:22+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:56:22+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T08:56:22+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T08:56:22+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T08:56:22+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","port":"8080","time":"2025-11-23T09:07:35+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T09:07:35+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T09:07:35+07:00","message":"API configuration"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:07:44+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:07:44+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:07:44+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:07:48+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:07:48+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:07:49+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:07:49+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:07:49+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:07:49+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:07:49+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:09:12+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:09:12+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:09:12+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:09:12+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:09:12+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:09:13+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:09:13+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:09:13+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:09:13+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:09:13+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","port":"8080","time":"2025-11-23T09:10:04+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T09:10:04+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T09:10:04+07:00","message":"API configuration"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:10:18+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:18+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:18+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:10:18+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:10:18+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:10:19+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:19+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:19+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:10:19+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:10:19+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:10:44+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:44+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:44+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:10:44+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:10:44+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:10:45+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:45+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:10:45+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:10:45+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:10:45+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:11:04+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:11:04+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:11:04+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:11:04+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:11:04+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:11:05+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:11:05+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:11:05+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:11:05+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:11:05+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","port":"8080","time":"2025-11-23T09:12:57+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T09:12:57+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T09:12:57+07:00","message":"API configuration"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:13:04+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:04+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:04+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:13:04+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:13:04+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:13:05+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:05+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:05+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:13:05+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:13:05+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:13:33+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:33+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:33+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:13:33+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:13:33+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:13:34+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:34+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:13:34+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:13:34+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:13:34+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:14:11+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:11+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:11+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:14:11+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:14:11+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:14:12+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:12+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:12+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:14:12+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:14:12+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:14:54+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:54+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:54+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:14:54+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:14:54+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:14:55+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:55+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:14:55+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:14:55+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:14:55+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:09+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:09+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:09+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:09+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:09+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:10+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:10+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:10+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:10+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:10+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:12+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:12+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:12+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:12+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:12+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:13+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:13+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:13+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:13+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:13+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:23+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:23+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:23+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:23+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:23+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:15:24+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:24+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis analis","location":"Indonesia","time":"2025-11-23T09:15:24+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:15:24+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:15:24+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","port":"8080","time":"2025-11-23T09:16:01+07:00","message":"Server starting"}
+{"level":"info","time":"2025-11-23T09:16:01+07:00","message":"CORS enabled for: http://localhost:5173, http://localhost:3000, http://localhost:4173"}
+{"level":"info","api_key_loaded":true,"time":"2025-11-23T09:16:01+07:00","message":"API configuration"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:16:10+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:16:10+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:16:10+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:16:10+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:16:10+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:16:11+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:16:11+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:16:11+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:16:12+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:16:12+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:05+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:05+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:05+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:05+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:05+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:06+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:06+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:06+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:06+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:06+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:11+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:11+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:11+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:11+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:11+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:12+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:12+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:12+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:12+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:12+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:39+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:39+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:39+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:39+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:39+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:40+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:40+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:40+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:40+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:40+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:51+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:51+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:51+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:51+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:51+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:17:52+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:52+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:17:52+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:17:52+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:17:52+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:12+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:12+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:12+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:13+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:13+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:14+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:14+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:14+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:14+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:14+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:15+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:15+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:15+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:15+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:15+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:16+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:16+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:16+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:17+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:17+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:19+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:19+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:19+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:19+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:19+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:20+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:20+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"bisnis anali","location":"Indonesia","time":"2025-11-23T09:18:20+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"error","error":"Google hasn't returned any results for this query.","time":"2025-11-23T09:18:20+07:00","message":"[API ERROR] Failed to make request"}
+{"level":"error","error":"failed to make request: Google hasn't returned any results for this query.","time":"2025-11-23T09:18:20+07:00","message":"[SEARCH ERROR] Failed to fetch jobs"}
+{"level":"info","query":"devops","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:28+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"devops","location":"Indonesia","time":"2025-11-23T09:18:28+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"devops","location":"Indonesia","time":"2025-11-23T09:18:28+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T09:18:30+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":10,"time":"2025-11-23T09:18:30+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":10,"time":"2025-11-23T09:18:30+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":10,"query":"devops","location":"Indonesia","time":"2025-11-23T09:18:30+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
+{"level":"info","query":"web","location":"Indonesia","ip":"127.0.0.1","time":"2025-11-23T09:18:56+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"web","location":"Indonesia","time":"2025-11-23T09:18:56+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"web","location":"Indonesia","time":"2025-11-23T09:18:56+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T09:19:00+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":2,"time":"2025-11-23T09:19:00+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":2,"time":"2025-11-23T09:19:00+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":2,"query":"web","location":"Indonesia","time":"2025-11-23T09:19:00+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
+{"level":"info","query":"web","location":"Surabaya","ip":"127.0.0.1","time":"2025-11-23T09:19:26+07:00","message":"[SEARCH REQUEST]"}
+{"level":"info","query":"web","location":"Surabaya","time":"2025-11-23T09:19:26+07:00","message":"[SEARCH] Fetching from SerpAPI"}
+{"level":"info","query":"web","location":"Surabaya","time":"2025-11-23T09:19:26+07:00","message":"[API ENDPOINT] Calling SerpAPI with google_jobs engine"}
+{"level":"info","time":"2025-11-23T09:19:30+07:00","message":"[API RESPONSE] Successfully received data from SerpAPI"}
+{"level":"info","raw_results":2,"time":"2025-11-23T09:19:30+07:00","message":"[API DATA] SerpAPI returned results"}
+{"level":"info","transformed_jobs":2,"time":"2025-11-23T09:19:30+07:00","message":"[API TRANSFORMED]"}
+{"level":"info","job_count":2,"query":"web","location":"Surabaya","time":"2025-11-23T09:19:30+07:00","message":"[SEARCH RESULT] Successfully retrieved jobs from SerpAPI"}
