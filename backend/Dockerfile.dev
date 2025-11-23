@@ -1,0 +1,19 @@
+# Development Dockerfile for hot reload
+FROM golang:1.24-alpine
+
+# Install air for hot reload
+RUN go install github.com/cosmtrek/air@latest
+
+WORKDIR /app
+
+# Copy go mod files
+COPY go.mod go.sum ./
+RUN go mod download
+
+# Copy source
+COPY . .
+
+EXPOSE 8080
+
+# Use air for hot reload
+CMD ["air", "-c", ".air.toml"]

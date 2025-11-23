@@ -1,0 +1,20 @@
+# Docker ignore for frontend
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+*.pid
+.git/
+.gitignore
+README.md
+*.md
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+coverage/
+.cache/

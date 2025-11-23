@@ -1,0 +1,22 @@
+# Docker ignore for backend
+.env
+.env.*
+*.log
+app.log
+backend.log
+*.pid
+tmp/
+vendor/
+.git/
+.gitignore
+README.md
+*.md
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.air.toml
+careerhub-server
+test_server

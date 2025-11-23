@@ -1,0 +1,47 @@
+# Development docker-compose with hot reload
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    container_name: careerhub-backend-dev
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - SERPAPI_KEY=${SERPAPI_KEY}
+      - GIN_MODE=debug
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend:/app
+      - /app/vendor
+    restart: unless-stopped
+    networks:
+      - careerhub-network
+    command: go run main.go
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    container_name: careerhub-frontend-dev
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8080
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - careerhub-network
+    command: npm run dev -- --host 0.0.0.0
+
+networks:
+  careerhub-network:
+    driver: bridge
